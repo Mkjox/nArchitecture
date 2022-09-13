@@ -25,27 +25,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Security", "src\corePa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "templateProject", "templateProject", "{11C509DD-21AC-415F-B2F2-EB58985F2703}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "src\demoProjects\templateProject\Application\Application.csproj", "{78EA22FC-B933-4349-A097-556A076009F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateApplication", "src\demoProjects\templateProject\Application\TemplateApplication.csproj", "{78EA22FC-B933-4349-A097-556A076009F1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "src\demoProjects\templateProject\Domain\Domain.csproj", "{D0D4D281-24C1-4EE0-88D6-01FA18B90442}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateDomain", "src\demoProjects\templateProject\Domain\TemplateDomain.csproj", "{D0D4D281-24C1-4EE0-88D6-01FA18B90442}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "src\demoProjects\templateProject\Infrastructure\Infrastructure.csproj", "{1A88B2CE-A954-4709-B15E-F6F1210AD2FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateInfrastructure", "src\demoProjects\templateProject\Infrastructure\TemplateInfrastructure.csproj", "{1A88B2CE-A954-4709-B15E-F6F1210AD2FD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "src\demoProjects\templateProject\Persistence\Persistence.csproj", "{53D6E924-1C32-4039-8192-CE1BEA129C61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplatePersistence", "src\demoProjects\templateProject\Persistence\TemplatePersistence.csproj", "{53D6E924-1C32-4039-8192-CE1BEA129C61}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "src\demoProjects\templateProject\WebAPI\WebAPI.csproj", "{54568B1F-31E7-4BA3-A2ED-826E85050603}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateWebAPI", "src\demoProjects\templateProject\WebAPI\TemplateWebAPI.csproj", "{54568B1F-31E7-4BA3-A2ED-826E85050603}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "rentACar", "rentACar", "{EA813683-1966-4188-B8C7-764491A1DD30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{247F0616-8ED5-481C-A6EB-32B5A3806B4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{247F0616-8ED5-481C-A6EB-32B5A3806B4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{51280F41-18C8-4D60-B420-91D9156A38A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{51280F41-18C8-4D60-B420-91D9156A38A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{903A0037-36D4-4D8D-8F9A-9E22F412F631}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{903A0037-36D4-4D8D-8F9A-9E22F412F631}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{FD46CB5C-7F7B-4049-9929-043A87A82699}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "Persistence\Persistence.csproj", "{FD46CB5C-7F7B-4049-9929-043A87A82699}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{DAA6EF6C-92B3-4AB0-875B-F4FB088BCFA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{DAA6EF6C-92B3-4AB0-875B-F4FB088BCFA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

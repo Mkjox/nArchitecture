@@ -26,9 +26,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\Application\Application.csproj" />
-		<ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
-		<ProjectReference Include="..\Persistence\Persistence.csproj" />
+		<ProjectReference Include="..\Application\TemplateApplication.csproj" />
+		<ProjectReference Include="..\Infrastructure\TemplateInfrastructure.csproj" />
+		<ProjectReference Include="..\Persistence\TemplatePersistence.csproj" />
 	</ItemGroup>
 
 </Project>
